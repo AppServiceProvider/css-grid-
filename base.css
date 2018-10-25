@@ -1,0 +1,23 @@
+* {
+  box-sizing: content-box;
+}
+
+h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: black;
+  text-align: center;
+}
+
+.container {
+  padding: 1em;
+  margin: auto;
+  background-color: salmon;
+}
+.container .item {
+  font-size: 2em;
+  color: salmon;
+  background: saddlebrown;
+  padding: 1em;
+  /* margin: 1em; */
+  text-align: center;
+}
